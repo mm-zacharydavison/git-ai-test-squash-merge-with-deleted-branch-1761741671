@@ -1,0 +1,22 @@
+test.txt
+  d754eaa 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "base_commit_sha": "2c9c082888121d0cc2b275c495b68cb8ee268ecb",
+  "prompts": {
+    "d754eaa": {
+      "agent_id": {
+        "tool": "mock_ai",
+        "id": "ai-thread-1761741677985875556",
+        "model": "unknown"
+      },
+      "human_author": "Test User <test@example.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
