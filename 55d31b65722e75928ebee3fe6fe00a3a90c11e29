@@ -1,0 +1,22 @@
+test.txt
+  6840c7d 5-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "base_commit_sha": "8fa166613fcf14d5367b73828107f6f35b6d622e",
+  "prompts": {
+    "6840c7d": {
+      "agent_id": {
+        "tool": "mock_ai",
+        "id": "ai-thread-1761741678082197061",
+        "model": "unknown"
+      },
+      "human_author": "Test User <test@example.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
