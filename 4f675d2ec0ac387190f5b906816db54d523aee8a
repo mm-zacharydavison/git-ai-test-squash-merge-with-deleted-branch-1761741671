@@ -1,0 +1,36 @@
+test.txt
+  ai-thread-1761741677985875556 2
+  ai-thread-1761741678082197061 5-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "base_commit_sha": "4f675d2ec0ac387190f5b906816db54d523aee8a",
+  "prompts": {
+    "ai-thread-1761741677985875556": {
+      "agent_id": {
+        "tool": "mock_ai",
+        "id": "ai-thread-1761741677985875556",
+        "model": "unknown"
+      },
+      "human_author": "Test User <test@example.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "ai-thread-1761741678082197061": {
+      "agent_id": {
+        "tool": "mock_ai",
+        "id": "ai-thread-1761741678082197061",
+        "model": "unknown"
+      },
+      "human_author": "Test User <test@example.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 1,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
